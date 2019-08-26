@@ -1,0 +1,4 @@
+#Mon Aug 26 18:03:19 ADT 2019
+base.0=C\:\\Users\\Andre\\Documents\\Developed Games\\UnityNetworkCheck\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

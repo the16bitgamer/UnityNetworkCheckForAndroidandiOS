@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andre\Documents\Developed Games\UnityNetworkCheck\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="28.0.3"
+        sha1="899066780f9e638a5ff467fe1b01cb77fa0a8194">
+        <dex dex="C:\Users\Andre\Documents\Developed Games\UnityNetworkCheck\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Andre\.gradle\caches\transforms-1\files-1.1\networking-release.aar\ed9b4283675562e32452b11ff9b34531\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="28.0.3"
+        sha1="28837d7962f6ad84bb3655bf039edd1e62795dac">
+        <dex dex="C:\Users\Andre\Documents\Developed Games\UnityNetworkCheck\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+
+</items>
