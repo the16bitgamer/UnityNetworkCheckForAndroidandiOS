@@ -23,7 +23,7 @@ In NetworkCheck you will have access to 3 functions:
 3. ```networkCheck.CheckMobileState```
    - This will check to see if the device is connected to the internet with Mobile Data
    
-##Testing
+## Testing
 
 Since this module is designed to work on mobile devices there is no way to test the native code in Unity Editor.
 
