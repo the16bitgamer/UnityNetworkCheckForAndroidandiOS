@@ -2,7 +2,7 @@
 ## Adding Network Check to your project
 
 1. Download the Netwrok Check Unity Package
-   - [Click Here to Download](https://github.com/the16bitgamer/UnityNetworkCheckForAndroidandiOS/blob/master/UnityNetworkCheck%201.unitypackage)
+   - [Click Here to Download](https://github.com/the16bitgamer/UnityNetworkCheckForAndroidandiOS/releases/tag/v1.0)
 2. Import the Custom Pagacke into your Assets Folder
    - If you don't know how to import the package here is [Unity's Tutorial on importing custom packages](https://docs.unity3d.com/Manual/AssetPackages.html#ImportingPackages)
 
