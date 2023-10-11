@@ -44,3 +44,9 @@ The menu code is located in **NetworkMenuToggles.cs** and is in ./Assets/Plugins
 For Android to work you will need to include **networking-release.aar** in ./Assets/Plugins/Android/ which is already included in the package
 
 For iOS to work you will need to include **NetworkCheck.mm** in ./Assets/Plugins/iOS/ which is already included in the package
+
+##Source
+
+The Android source files can be found [here](https://github.com/the16bitgamer/NetworkCheck)
+
+The iOS Source files are located in the **./Assets/Plugins/iOS/** folder under **NetworkCheck.mm**
